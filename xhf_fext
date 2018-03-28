@@ -1,7 +1,7 @@
 {
   "reward" : 0,
-  "admob_action_share" : 100,
-  "admob_action_back" : 80,
-  "admob_action_filter" : 50,
-  "admob_action_enter_from_bg" : 30
+  "admob_action_share" : 0,
+  "admob_action_back" : 0,
+  "admob_action_filter" : 0,
+  "admob_action_enter_from_bg" : 0
 }
