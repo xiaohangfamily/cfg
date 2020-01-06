@@ -1,4 +1,5 @@
 {
   "reward" : 0,
-  "ad_platform" : 1
+  "ad_platform" : 1,
+  "music_token" : "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkxHUENYQTY3TTYifQ.eyJpc3MiOiJHOVc2UzJLTThIIiwiaWF0IjoxNTc4MzA3MTY0LCJleHAiOjE1OTQwMzE5NjR9.x-oimw4WtMpyRAbvvNZwrgPwGr9uWkIp5sfD4lb3tMtJZMrwkwJjYpvbhzsytZkvuib8SNjZpUnx6QhLX-6WMA"
 }
